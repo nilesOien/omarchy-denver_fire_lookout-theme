@@ -13,7 +13,4 @@ user theme area in ```$HOME/.config/omarchy/themes/```
 ```bash
 omarchy-theme-install https://github.com/nilesoien/omarchy-denver_fire_lookout-theme
 ```
-```
 
-
-```
